@@ -1,2 +1,2 @@
-# FirebaseChat
-Build a basic chat program
+# One uses react
+Online chat program built with MongoDB
